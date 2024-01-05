@@ -1,0 +1,1 @@
+A side project recreating the Sears Tele Games Super Pong console released in 1976 (https://youtu.be/ueZd_kTFdPs?si=MbragJFpMLib2aju). As of January 2024, this project is really bare bones, only including regular pong but I hope to include the other pong games from this console.
